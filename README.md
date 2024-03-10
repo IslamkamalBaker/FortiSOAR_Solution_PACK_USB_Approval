@@ -19,17 +19,16 @@ Connector Version: 1.0.0
 Authored By: Islam Baker
 
 Certified: No
+
 ## Installing the connector
+
 <p>Use the <strong>Content Hub</strong> to install the connector. For the detailed procedure to install a connector, click <a href="https://docs.fortinet.com/document/fortisoar/0.0.0/installing-a-connector/1/installing-a-connector" target="_top">here</a>.</p><p>You can also use the <code>yum</code> command as a root user to install the connector:</p>
 <pre>yum install cyops-connector-uSBApprovalSystem</pre>
 
-## Prerequisites to configuring the connector
-There are no prerequisites to configuring this connector.
-
-## Minimum Permissions Required
-- Not applicable
-
 ## Configuring the connector
 For the procedure to configure a connector, click [here](https://docs.fortinet.com/document/fortisoar/0.0.0/configuring-a-connector/1/configuring-a-connector)
-### Configuration parameters
-None.
+
+# Next Steps
+
+| [Installation](./setup.md#installation) | [Configuration](./setup.md#configuration) | [Usage](./usage.md) |
+|-----------------------------------------|-------------------------------------------|---------------------|
