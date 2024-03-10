@@ -14,10 +14,10 @@ The **USB Management Exceptions** solution pack contains the following resources
 
 | Name                                    | Description                                                                                                                                         |
 |:----------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------|
-| Fortinet FortiEDR                       | FortiEDR Connetor to Move Collectors from group to allow USB Group.                                                                                 |
+| Fortinet FortiEDR                       | FortiEDR Connetor to Move Collectors from Current Group to allow USB Group.                                                                         |
 | Microsoft Exchange                      | Microsoft Exchange connector fetches Request and approval by Email.                                                                                 |
 | Microsoft Active Directory              | Microsoft Active Directory Connector to get requester information and Manager details.                                                              |
-| NIST National Vulnerability Database    | The NVD includes databases of security checklist references, security-related software flaws, misconfigurations, product names, and impact metrics. |
+
 
 
 ## Module Schema
