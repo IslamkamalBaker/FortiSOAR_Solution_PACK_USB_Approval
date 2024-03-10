@@ -43,9 +43,9 @@ With the confirmation received, FortiSOAR updates the request record and changes
 
 The email will send to manager asking for his decision 
 
-*###Approval:
+* ## Approval:
 If the manager approves, FortiSOAR automatically updates the record with the approval status, adds the manager's comment, and moves dc1 from "flag the hack" to the "allow USB" collector group within FortiEDR, granting the requested access.
-*###Decline:
+* ## Decline:
 If the manager declines, the record is updated with the rejection status and the reason, and the requester is notified via email
 
 Last Step FortiSOAR will validate result and update record accordingly if there is any error during moving the status will change to "Error Moving"
