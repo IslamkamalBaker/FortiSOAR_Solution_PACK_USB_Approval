@@ -30,6 +30,5 @@ For the procedure to configure a connector, click [here](https://docs.fortinet.c
 
 # Next Steps
 
-| [Installation](./setup.md#installation) | [Configuration](./setup.md#configuration) | [Usage](./usage.md) || [Installation](./setup.md#installation) | [Configuration](./setup.md#configuration) | [Contents](./contents.md) |
-|-----------------------------------------|-------------------------------------------|---------------------------|
-|-----------------------------------------|-------------------------------------------|---------------------|
+| [Installation](./docs/setup.md#installation) | [Configuration](./docs/setup.md#configuration) | [Usage](./docs/usage.md) | [Contents](./docs/contents.md) |
+|----------------------------------------------|------------------------------------------------|--------------------------||-------------------------------|
